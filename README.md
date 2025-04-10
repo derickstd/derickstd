@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @derickstd 
-- 👀 I’m interested in learning software development
-- 🌱 I’m currently learning java programing
+- 👋 Hi, I’m AGABA DERICK
+- 👀 I’m interested in learning software development and web development
+- 🌱 I’m currently learning software and web development
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me is through derickstd24@gmail.com
+- 📫 How to reach me is through derickstd24@gmail.com(whatsapp +256785230670)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
